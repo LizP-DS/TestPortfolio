@@ -1,6 +1,2 @@
-# TestPortfolio
-## this is 2 
-### size of text 3
+# Data Science CV
 
-* italics*
-  ** bold**
